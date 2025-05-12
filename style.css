@@ -25,6 +25,7 @@ li {
   list-style:none;
 }
 .btn-box button {
+  border-radius: 25%;
   text-align:center;
   background-color:skyblue;
   padding:16px;
